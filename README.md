@@ -1,4 +1,4 @@
-Создаем образ:\
+##Создаем образ:\##
                    docker build . --tag stocks_products_image
 
 Создание и запуск контейнера на основе образа stocks_products_image:\
